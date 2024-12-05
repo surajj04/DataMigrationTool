@@ -3,7 +3,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*-SjJ12zamKV3ERm6LMatoA.png" width="450" style="margin-right: 20px;" />
-    <img src="https://bgasparotto.com/wp-content/uploads/2015/05/mysql-logo.png" width="190" />
+    <img src="https://bgasparotto.com/wp-content/uploads/2015/05/mysql-logo.png" width="150" />
 </div>
 
 
