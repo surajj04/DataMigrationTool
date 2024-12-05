@@ -2,9 +2,10 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*-SjJ12zamKV3ERm6LMatoA.png" width="450" style="margin-right: 20px;" />
-    <img src="https://bgasparotto.com/wp-content/uploads/2015/05/mysql-logo.png" width="450" />
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*-SjJ12zamKV3ERm6LMatoA.png" style="width: 200px; height: 100px; object-fit: contain; margin-right: 20px;" />
+    <img src="https://bgasparotto.com/wp-content/uploads/2015/05/mysql-logo.png" style="width: 200px; height: 100px; object-fit: contain;" />
 </div>
+
 
 
 **DataMigrationTool** is a simple and efficient tool for migrating and processing CSV data into MySQL databases. Built using **Spring Batch**, it ensures seamless data migration with features like schema mapping, data cleaning, and fault tolerance.
