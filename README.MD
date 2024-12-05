@@ -2,7 +2,7 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="/home/suraj/Code/Projects/csv-to-mysql/target/classes/com/batch/csv_to_mysql/model/1707976746852-removebg-preview.png" style="width: 400px; height: 300px; object-fit: contain; margin-right: 20px;" />
+    <img src=".mvn/wrapper/1707976746852-removebg-preview.png" style="width: 400px; height: 300px; object-fit: contain; margin-right: 20px;" />
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*dU4B5Jg2opVXRmGhiBYXdQ.png" style="width: 400px; height: 300px; object-fit: contain;" />
 </div>
 
