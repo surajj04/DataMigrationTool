@@ -3,7 +3,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*-SjJ12zamKV3ERm6LMatoA.png" width="350" style="margin-right: 20px;" />
-    <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="250" />
+    <img src="https://static-00.iconduck.com/assets.00/mysql-plain-wordmark-icon-2048x1064-ofxdaxd6.png" width="250" />
 </div>
 
 
