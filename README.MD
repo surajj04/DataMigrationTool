@@ -2,8 +2,8 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*-SjJ12zamKV3ERm6LMatoA.png" style="width: 200px; height: 100px; object-fit: contain; margin-right: 20px;" />
-    <img src="https://bgasparotto.com/wp-content/uploads/2015/05/mysql-logo.png" style="width: 200px; height: 100px; object-fit: contain;" />
+    <img src="/home/suraj/Code/Projects/csv-to-mysql/target/classes/com/batch/csv_to_mysql/model/1707976746852-removebg-preview.png" style="width: 400px; height: 300px; object-fit: contain; margin-right: 20px;" />
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*dU4B5Jg2opVXRmGhiBYXdQ.png" style="width: 400px; height: 300px; object-fit: contain;" />
 </div>
 
 
