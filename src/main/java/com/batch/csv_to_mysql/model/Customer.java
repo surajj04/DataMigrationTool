@@ -6,7 +6,7 @@ import jakarta.persistence.Table;
 import jakarta.persistence.Transient;
 
 @Entity
-@Table(name = "customer")
+@Table(name = "CUSTOMER")
 public class Customer {
 
     @Id
